@@ -3,7 +3,7 @@ require 'active_support/inflector'
 
 class InteractiveRecord
 
-  def initialize(hash)
+  def initialize(hash = {})
 
   end
 
